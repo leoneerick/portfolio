@@ -1,0 +1,12 @@
+{
+  "firstName": "Erick",
+  "lastName": "Leone",
+  "intro": [
+    "Sou um desenvolvedor que adora novas tecnologias. Atualmente sou estagiário em uma empresa de Tecnologia que presta serviço para órgãos públicos",
+    "Você pode dar uma olhada em alguns dos meus projetos pessoais nesse portifólio. :)"
+  ],
+  "about": [
+    "Atuo de forma Full-Stack, com Java e JavaScript, utilizando SpringBoot e Angular.",
+    "Apesar disso, me indentifico e prefiro atuar somente com Front-End, para isso, além do Angular, estudo mais algumas tecnologias à respeito da área, como React e Next."
+  ]
+}
